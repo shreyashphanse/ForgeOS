@@ -1,7 +1,7 @@
 function Health() {
   return (
-    <div>
-      <h1>ForgeOS Frontend Healthy ✅</h1>
+    <div className="flex h-screen items-center justify-center bg-slate-950 text-3xl text-white">
+      ForgeOS Frontend Healthy ✅
     </div>
   );
 }

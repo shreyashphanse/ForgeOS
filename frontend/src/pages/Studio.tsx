@@ -1,9 +1,5 @@
 function Studio() {
-  return (
-    <div>
-      <h1>Studio</h1>
-    </div>
-  );
+  return <h1 className="text-4xl font-bold">Studio</h1>;
 }
 
 export default Studio;

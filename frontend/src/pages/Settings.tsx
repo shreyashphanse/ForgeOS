@@ -1,9 +1,5 @@
 function Settings() {
-  return (
-    <div>
-      <h1>Settings</h1>
-    </div>
-  );
+  return <h1 className="text-4xl font-bold">Settings</h1>;
 }
 
 export default Settings;

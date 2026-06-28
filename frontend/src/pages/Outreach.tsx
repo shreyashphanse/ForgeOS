@@ -1,9 +1,5 @@
 function Outreach() {
-  return (
-    <div>
-      <h1>Outreach</h1>
-    </div>
-  );
+  return <h1 className="text-4xl font-bold">Outreach</h1>;
 }
 
 export default Outreach;

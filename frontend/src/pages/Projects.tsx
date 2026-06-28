@@ -1,9 +1,5 @@
 function Projects() {
-  return (
-    <div>
-      <h1>Projects</h1>
-    </div>
-  );
+  return <h1 className="text-4xl font-bold">Projects</h1>;
 }
 
 export default Projects;

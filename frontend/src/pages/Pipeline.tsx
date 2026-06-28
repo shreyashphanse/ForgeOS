@@ -1,9 +1,5 @@
 function Pipeline() {
-  return (
-    <div>
-      <h1>Pipeline</h1>
-    </div>
-  );
+  return <h1 className="text-4xl font-bold">Pipeline</h1>;
 }
 
 export default Pipeline;
